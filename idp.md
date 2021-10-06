@@ -38,9 +38,7 @@ Your IDP should be considered a living document that will evolve over time as yo
 
 **Email:**
 
-**Lab or Group:**
-
-**Estimated month and year of graduation/postdoc completion:**
+**Group:**
 
 
 ## Career Goals
@@ -48,84 +46,35 @@ Identify your existing strengths and the gaps in your knowledge or experience, t
 
 **Overall career goal (as of now -- you can change your mind later):**
 
-
-
 **What do you think you want to be doing in 10 years? (long-term objectives):**
-
-
-
-**What do you want to be doing once you graduate? (medium-term objectives):**
-
-
 
 **What do you want to accomplish in the next year? (short-term goals; be specific):**
 
-
-
-
-
 ## Acquiring of Discipline-Specific Knowledge and Research Skills
-**Briefly describe your research project goals (1 paragraph):**
+**Briefly describe your project goals (1 paragraph):**
 
+**What specific skills or expertise (methods, techniques, specific courses, etc) have you already acquired during the course of your project(s)?:**
 
-
-
-
-**What specific skills or expertise (methods, techniques, specific courses, etc) have you already acquired during the course of your project?:**
-
-
-
-
-
-**What specific skills or expertise (methods, techniques, specific courses, etc) do you need to learn to accomplish this project?:**
-
-
-
-
-
-
+**What specific skills or expertise (methods, techniques, specific courses, etc) do you need to learn to accomplish your project(s)?:**
 
 ## Development of Career Skills
 
 **Development of communication skills (list progress you have made in this area and specific areas to improve in the future; e.g. grant writing, manuscript writing, poster and oral presentations, science writing for the public, networking):**
 
-
-
-**Gaining experience in teaching or public outreach (list previous, current and future specific teaching opportunities, formal or informal training in didactics):**
-
-
-
-**Developing mentoring skills (list previous and potential opportunities for training):**
-
-
-
 **Other opportunities for developing skills in leadership, mentoring, time management etc.:**
-
-
 
 ## Setting Goals for Progress
 
-**Anticipated oral or poster presentations (list dates of previous and future presentations, if possible):**
-
-
-
 **Anticipated publications (describe previous and anticipated titles/topics of manuscripts and anticipated dates of submission; include both first author and collaborative publications):**
-
-
-
-**Applications for funding (list specific source of previous and potential funding and type of award, with expected submission dates):**
-
-
 
 ## Timeline for Planning to Move to the Next Step in Your Career
 
-**Key contacts to make to explore career options and investigate leads:**
+**Short-term advancement goals in current position:**
 
+**Key contacts to make to explore career options and investigate leads:**
 
 **Potential sources for letters of reference (cultivate these relationships early):**
 
-
 **Development of CV, research summary, etc.:**
-
 
 **Other actions to facilitate the move to your next position (e.g. attending Biosciences career seminars, meeting with the Director of the Office of Scientific Career Development, other professional development, informational interviews, networking):**
